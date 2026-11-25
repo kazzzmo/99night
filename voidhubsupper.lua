@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://https://robloxscriptbest.com/script/loader.php?script=voidhub"))()
+loadstring(game:HttpGet("https://robloxscriptbest.com/script/loader.php?script=voidhub"))()
